@@ -2,7 +2,7 @@
 
 ## 📌 Contexto del Proyecto
 
-Este proyecto corresponde al **Proyecto Integrador del módulo de Data Engineering**, cuyo objetivo es diseñar e implementar un **pipeline ELT escalable y un Data Warehouse en la nube**.
+Este proyecto corresponde al **Proyecto Integrador del módulo 3 de Data Engineering**, cuyo objetivo es diseñar e implementar un **pipeline ELT escalable y un Data Warehouse en la nube**.
 
 El rol asumido es el de **Ingeniero de Datos**, responsable de definir la arquitectura del sistema que permitirá integrar, transformar y analizar grandes volúmenes de datos provenientes de múltiples fuentes.
 
