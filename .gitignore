@@ -1,0 +1,48 @@
+# ========================
+# Secrets & Credentials
+# ========================
+.env
+credenciales/
+credentials/
+secrets/
+*.pem
+*.key
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Airflow logs
+# ========================
+logs/
+airflow.db
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# VS Code
+# ========================
+.vscode/
+
+# ========================
+# Docker
+# ========================
+docker-compose.override.yml
